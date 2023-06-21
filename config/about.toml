@@ -6,7 +6,7 @@ birthday = "February 17, 1996"
 location = "Pasto, Nariño - Colombia"
 avatar = "./config/assets/avatars/my-avatar.png"
 username = "david-tm" # <-- github user name
-googlemaps = "https://goo.gl/maps/Y8Vyq7kiSyo7YMSV8" 
+googlemaps = "https://www.google.com/maps/place/Cl.+4+%2315-199,+Pasto,+Nari%C3%B1o/@1.2026335,-77.2864764,17z/data=!3m1!4b1!4m5!3m4!1s0x8e2ed49f9e4829dd:0x37396eda4c726f95!8m2!3d1.2026281!4d-77.2839015?entry=ttu" 
 presentation = """
 I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
